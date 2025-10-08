@@ -1,4 +1,4 @@
-This README file contains the repository name as ci-cd-final-project
+This README file contains the repository name as final-project
 
 # CI/CD Tools and Practices Final Project - JavaScript/Node.js Version
 
